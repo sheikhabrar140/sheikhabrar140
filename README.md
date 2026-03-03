@@ -12,8 +12,8 @@ I am a high school senior based in Dhaka, Bangladesh, with a strong background i
 - 🏛 **Research Intern (Onboarding)**  
   Center for Astronomy, Space Science and Astrophysics (CASSA), IUB, Dhaka  
 - 🧠 **Olympiad Coach**  
-  Academic Team Member at Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)
+  Academic Team Member at Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)  
   Team Mentor at NDESC Interstellar
 - 📚 **Astronomy Education & Outreach**  
-  Designing and distributing olympiad handouts in Bangla and English, covering simplified yet engaging astronomy topics for students.  
+  Designing and distributing olympiad handouts in Bangla and English, covering simplified yet engaging astronomy topics for students.    
   Research regarding astronomy club culture in high schools, exploring ways to increase student engagement and participation in STEM activities.
