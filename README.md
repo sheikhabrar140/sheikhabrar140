@@ -17,3 +17,11 @@ I am a high school senior based in Dhaka, Bangladesh, with a strong background i
 - 📚 **Astronomy Education & Outreach**  
   Designing and distributing olympiad handouts in Bangla and English, covering simplified yet engaging astronomy topics for students.    
   Research regarding astronomy club culture in high schools, exploring ways to increase student engagement and participation in STEM activities.
+
+## 🌌 Research Interests
+
+- Radio Astronomy; Imaging algorithms for TART Telescope
+- Exoplanets 
+- Transient Astronomy 
+- Planetary Atmosphere   
+- Astronomy Education in Bangladesh 
